@@ -20,6 +20,7 @@ article{
 	background-color: rgba(255, 255, 255, 0.466);
 	position: relative;
 	top: 56px;
+	display: inline;
 }
 nav{
 	position: fixed;
@@ -59,7 +60,7 @@ h1{
 }
 #title:hover {
 	position: relative;
-	transition: linear 0.15s;
+	transition: linear 0.20s;
 	bottom: 160px;
 	left: 50px;
 }
@@ -69,7 +70,7 @@ h1{
 }
 #hammer:hover{
 	position: relative;
-	transition: linear 0.15s;
+	transition: linear 0.20s;
 	bottom: 65px;
 	right: 10px;
 }
@@ -90,7 +91,7 @@ h1{
 }
 #pincers:hover{
 	position: relative;
-	transition: linear 0.15s;
+	transition: linear 0.20s;
 	left: 540px;
 	bottom: 10px;
 }
@@ -101,7 +102,7 @@ h1{
 }
 #screwdriver:hover{
 	position: relative;
-	transition: linear 0.15s;
+	transition: linear 0.20s;
 	left: 365px;
 	bottom: 140px;
 }
@@ -164,3 +165,4 @@ h1{
 #humanfactor:hover #text {
     display: block;
 }
+
