@@ -20,7 +20,6 @@ article{
 	background-color: rgba(255, 255, 255, 0.466);
 	position: relative;
 	top: 56px;
-	display: inline;
 }
 nav{
 	position: fixed;
@@ -48,10 +47,14 @@ p{
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
+	background-color: #ffffff85;
+	margin: 0;
 }
 h1{
+	margin: 0;
 	padding-left: 10px;
 	padding-top: 10px;
+	background-color: #ffffff85
 }
 #title {
 	 position: relative;
